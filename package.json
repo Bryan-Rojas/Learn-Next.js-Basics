@@ -1,0 +1,28 @@
+{
+  "name": "Learn-Next.js-Basics",
+  "version": "1.0.0",
+  "description": "Learning Next.js 🙂",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan-Rojas/Learn-Next.js-Basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryan-Rojas/Learn-Next.js-Basics/issues"
+  },
+  "homepage": "https://github.com/Bryan-Rojas/Learn-Next.js-Basics#readme"
+}
