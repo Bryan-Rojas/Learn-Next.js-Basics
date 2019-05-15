@@ -4,6 +4,7 @@
   "description": "Learning Next.js 🙂",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.16.4",
     "next": "^8.1.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6"
